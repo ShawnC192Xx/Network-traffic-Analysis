@@ -2,7 +2,7 @@
 <img src="https://imgur.com/a/argcrQD" alt="Analysis logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>Net Network Traffic Analysis - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
@@ -14,19 +14,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Porton VPN (Could be switched with another vpn client)
+- Wireshark packet analyzer
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
+- Windows 11</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1: stable Internet connection 
+- Item 2: Azure subcription account or 2 PC's with internet connection
+- Item 3: Wireshark software
+- Item 4: Desktop PC with monitor display or laptop with extrnal monitor
 
 <h2>Installation Steps</h2>
 
