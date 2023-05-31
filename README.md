@@ -1,5 +1,6 @@
-<p align="center">
-<img src="https://imgur.com/a/argcrQD" alt="Analysis logo"/>
+
+<p align="center"> 
+<img src="https://i.imgur.com/ZMFJ2ns.png"alt="Analysis logo "/>
 </p>
 
 <h1>Net Network Traffic Analysis - Prerequisites and Installation</h1>
