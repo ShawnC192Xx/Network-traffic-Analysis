@@ -4,7 +4,8 @@
 </p>
 
 <h1>Net Network Traffic Analysis </h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+
+<br />
 
 
 <h2>Environments and Technologies Used</h2>
