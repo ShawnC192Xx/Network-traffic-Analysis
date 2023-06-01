@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/HwEZTDq.png"alt="Analysis logo "/>
 </p>
 
-<h1>Net Network Traffic Analysis - Prerequisites and Installation</h1>
+<h1>Net Network Traffic Analysis </h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
